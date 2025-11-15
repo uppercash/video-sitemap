@@ -1,0 +1,19 @@
+
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+
+  <url>
+    <loc>https://www.bizflowcapital.com/เนื้อหาบทความ/สินเชื่อod</loc>
+    <video:video>
+      <video:thumbnail_loc>https://i.ytimg.com/vi/hdAHt7USr74/maxresdefault.jpg</video:thumbnail_loc>
+      <video:title>Bizflowcapital วงเงิน OD สำหรับธุรกิจ</video:title>
+      <video:description>แนะนำวงเงิน OD สำหรับเจ้าของธุรกิจ และขั้นตอนขอวงเงิน</video:description>
+      <video:player_loc>https://www.youtube.com/embed/hdAHt7USr74</video:player_loc>
+      <video:content_loc>https://www.youtube.com/watch?v=hdAHt7USr74</video:content_loc>
+      <video:duration>150</video:duration>
+      <video:publication_date>2025-11-11T10:00:00+07:00</video:publication_date>
+    </video:video>
+  </url>
+
+</urlset>
